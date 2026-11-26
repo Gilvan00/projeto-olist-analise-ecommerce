@@ -68,7 +68,8 @@ projeto-olist-analise-ecommerce/
 └── documentacao/
     ├── justificativa_problema_e_dados.md
     ├── fontes_e_metodo_coleta.md
-    └── interpretacao_resultados_conclusoes.md
+    ├── interpretacao_resultados_conclusoes.md
+    └── relatorio_insights.md
 ```
 
 ## 7. Principais resultados
