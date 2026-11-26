@@ -99,6 +99,7 @@ Os documentos complementares do projeto incluem:
 - Justificativa do problema e da escolha dos dados.
 - Fontes e método de coleta dos dados.
 - Interpretação dos resultados e conclusões.
+- Insights da análise exploratória.
 
 ## 10. Considerações finais
 
