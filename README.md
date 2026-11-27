@@ -90,7 +90,7 @@ O projeto conta com um dashboard interativo desenvolvido no Looker Studio, divid
 - Vendas e Categorias.
 - Clientes e Logística.
 
-**Link do dashboard:** [Dashboard](https://datastudio.google.com/reporting/db990dd8-eb9d-4836-8121-03dcfe573845/page/CsSEG/edit)
+**Link do dashboard:** [Dashboard](https://datastudio.google.com/reporting/db990dd8-eb9d-4836-8121-03dcfe573845)
 
 ## 9. Documentação
 
